@@ -1,2 +1,2 @@
 # Research-Project-2021fall
-This repository contains PPTs and reports of my research project in SUSTECH. The project is about SLAM.
+This repository contains PPTs and reports of my research project in SUSTECH(创新实践1). The project is about SLAM.
